@@ -13,8 +13,8 @@ import java.util.*;
      * animal sera mange par un autre, et la piece actuelle.
      * {@inheritDoc}
      * 
-     * @author Meriem BOUDRISS 11808654
-     * @author Reda LAMHATTAT 11809054
+     * @author Meriem BOUDRISS 
+     * @author Reda LAMHATTAT 
      * @version 10/12/2019
      */
     public abstract class AbstractAnimal extends Conteneur<Aliment> implements Animal{
