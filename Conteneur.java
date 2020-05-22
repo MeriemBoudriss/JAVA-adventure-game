@@ -17,7 +17,7 @@ import java.util.*;
  * @invariant getListObjets() != null;
  * @invariant getListAliments() != null;
  * 
- * @author Meriem BOURDRISS 11808654
+ * @author Meriem BOURDRISS
  * @version 07/12/2019
  */
 public class Conteneur<T extends ObjetZork>{
