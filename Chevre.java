@@ -16,7 +16,7 @@ import java.util.*;
  * 
  *  {@inheritDoc}
  *  
- * @author Meriem BOUDRISS 11808654
+ * @author Meriem BOUDRISS 
  * @version 15/12/2019
  */
 public class Chevre extends AbstractAnimal {
