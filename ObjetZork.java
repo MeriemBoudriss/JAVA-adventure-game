@@ -10,8 +10,8 @@ package zork;
 *@invariant estTransportable() <=> (getPoids()>0 && getPoids()< 30);
 *@invariant descriptionCourte()!=null;
 *
-*@author  Meriem BOUDRISS 11808654 
-*@author  Reda LAMHATTAT  11809054
+*@author  Meriem BOUDRISS 
+*@author  Reda LAMHATTAT  
 */
 public class ObjetZork {
     protected int poids;
