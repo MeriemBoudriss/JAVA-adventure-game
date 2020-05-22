@@ -15,8 +15,8 @@ import java.util.*;
  * @invariant  description()!=null;
  * @author     Michael Kolling
  * @author     Marc Champesme (pour la traduction francaise)
- * @author     Meriem BOUDRISS 11808654 (pour l'amelioration)
- * @author     Reda LAMHATTAT  11809054 (pour l'amelioration)
+ * @author     Meriem BOUDRISS  (pour l'amelioration)
+ * @author     Reda LAMHATTAT  (pour l'amelioration)
  */
 public class Piece extends Conteneur<ObjetZork> {
     private String description;
