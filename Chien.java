@@ -27,7 +27,7 @@ import java.util.*;
  * @invariant  !contient(null);
  * @invariant  getNbObjetsCh()>=0;
  * 
- * @author     Meriem BOUDRISS 11808654
+ * @author     Meriem BOUDRISS 
  * @version    26/12/2019
  * @since      october 2019
  */
