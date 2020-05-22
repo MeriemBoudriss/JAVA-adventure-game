@@ -23,8 +23,8 @@ import java.util.*;
   * @invariant !contient(null);
   * @invariant !contientCh(null);
   * 
-  * @author Meriem BOUDRISS 11808654
-  * @author Reda LAMHATTAT 11809054
+  * @author Meriem BOUDRISS 
+  * @author Reda LAMHATTAT 
   * @version 1.0
   */
 public class Joueur extends Conteneur<ObjetZork>{
