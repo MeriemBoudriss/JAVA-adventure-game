@@ -20,8 +20,8 @@ import java.util.*;
  *
  * @author     Michael Kolling
  * @author     Marc Champesme (pour la traduction francaise)
- * @author     Meriem BOUDRISS 11808654 (pour l'amelioration)
- * @author     Reda LAMHATTAT 11809054 (pour l'amelioration)
+ * @author     Meriem BOUDRISS  (pour l'amelioration)
+ * @author     Reda LAMHATTAT  (pour l'amelioration)
  * @version    1.2
  * @since      March 2000
  */
